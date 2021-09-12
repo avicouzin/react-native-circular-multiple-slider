@@ -10,7 +10,7 @@
 
 import React from 'react';
 import { View, StyleSheet, Text, Image } from 'react-native';
-import CircularMultipleSlider from './app/src/circularMultipleSlider';
+import CircularMultipleSlider from './app/src/CircularMultipleSlider';
 
 const DIVIDER_COMPONENT_SIZE = 40;
 const PERCENTAGE_TEXT = '%';
